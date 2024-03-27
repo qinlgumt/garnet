@@ -35,7 +35,7 @@ For an introduction to Garnet and its capabilities, you can start with [Welcome 
 
 1. Clone the repository
 
-git clone https://github.com/microsoft/garnet.git
+>git clone https://github.com/microsoft/garnet.git
 
 After cloning the repository you can either run the unit tests or run the server and use one of the RESP client suggested in Windows or Linux.
 
